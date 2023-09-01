@@ -6,7 +6,8 @@ An update to it was published on March 16, 2014.
 This was improved from it's original version and published by Forum64 user Mac Bacon.
 The original version was created by Felix 'skOi!nk' Rosenhahn around the year 1993.
 
-
+vdcbasic.bin is compiled for address $1300.
+vdcbasicac6.bin is compiled for address $0ac6.
 
 
 # Functions:
